@@ -1,6 +1,6 @@
 .imagecontainer {
   position: relative;
-  max-width: 120px;
+  max-width: 150px;
 }
 
 .overlayer {
@@ -22,14 +22,14 @@
 }
 
 .icon {
-  color: #0077B5;
-  font-size: 80px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
+  color: #0077B5;
+  font-size: 80px;
 }
 
 .fa-linkedin-square:hover {
